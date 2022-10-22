@@ -1,6 +1,6 @@
 # FileZilla-rs
 
-A shitty implementation of FileZilla but in Rust
+A shitty implementation of FileZilla but in Rust with Tauri
 
 ## Features
 
