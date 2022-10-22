@@ -4,11 +4,11 @@ A shitty implementation of FileZilla but in Rust
 
 ## Features
 
-You can :
+- You can :
   - Connect to a distant server.
   - Navigate in all the folders.
   - Download file you want.
-You cant :
+- You cant :
   - Upload file to the server.
 
 ## Authors
